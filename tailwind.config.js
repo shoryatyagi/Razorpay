@@ -2,7 +2,8 @@
 module.exports = {
   content: ['*'],
   theme: {
-    extend: {fontFamily: {
+    extend: {
+      fontFamily: {
       mullish: ["Mulish", "sans-serif"],
     },
     colors: {
